@@ -1,4 +1,4 @@
-# Hi there, I'm Abdel-moe'z 👋
+[# Hi there, I'm Abdel-moe'z Sayed👋
 
 I am an Electrical Power and Machines Engineering undergraduate student at Cairo University (Class of 2029).
 
@@ -11,3 +11,4 @@ I am an Electrical Power and Machines Engineering undergraduate student at Cairo
 ## 📫 How to reach me
 - **LinkedIn:** [ضع رابط حسابك هنا]
 - **Email:** [ضع بريدك الإلكتروني هنا]
+](https://www.linkedin.com/in/abdel-moe-z-sayed)
