@@ -18,4 +18,4 @@ I am an Electrical Power and Machines Engineering undergraduate student at Cairo
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Abdel-Moe'z Sayed](https://www.linkedin.com/in/abdel-moe-z-sayed)
-- **Email:** [abdelmoezsayed@gmail.com](mailto:abdelmoezsayed@gmail.com)
+- **Email:** [abdelmoezsayed@gmail.com](mailto:abdelmoezsayed1@gmail.com)
