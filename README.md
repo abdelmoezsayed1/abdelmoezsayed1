@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Abdel-moe'z 👋
 
-<!--
-**abdelmoezsayed1/abdelmoezsayed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical Power and Machines Engineering undergraduate student at Cairo University (Class of 2029).
 
-Here are some ideas to get you started:
+## ⚡ About Me
+- 🔭 I have a strong interest in control systems, power distribution, and embedded systems.
+- 💻 My technical toolkit currently focuses on **MATLAB**.
+- 🌱 I am actively involved in student activities, including organizing technical events and participating in committees like IEEE CUSB and TCCD.
+- ⚽ Outside of engineering, you can find me playing football as a striker, working out at the gym, or inline skating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- **LinkedIn:** [ضع رابط حسابك هنا]
+- **Email:** [ضع بريدك الإلكتروني هنا]
